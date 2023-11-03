@@ -2,7 +2,7 @@
 #    README    #
 ----------------
 
-Author: Xinyou Ma (xinyou.ma@ttu.edu)
+Author: Xinyou Ma
 
 ## 0. Presumptions:
 
