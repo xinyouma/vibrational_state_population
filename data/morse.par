@@ -1,0 +1,24 @@
+// Use "//", "#", "!" for comment, " ", ",", ":", "=", ";" as delimiter
+// Define total number of atoms in the molecule
+natom=28;
+
+// Define time per step (unit: 10fs) 
+time_per_step=0.04;
+
+// Define the two atoms of Morse oscillator
+morse_atom_a=0, morse_atom_b=1;
+
+// Define the Morse oscillator force constants
+R0 = 1.040, BETA = 2.587, D0 = 59.238;  
+
+// Define the two atoms of Morse oscillator
+atom_a_mass=1.0078, atom_b_mass=14.00300;
+
+// Define initial excitation level 
+// (0: ground state, 1: 1st excitated state)
+init_exc_level=1;
+
+// Define maximum number of steps used for state population analysis
+maxstep =10000;
+
+
